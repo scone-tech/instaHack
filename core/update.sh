@@ -35,7 +35,8 @@ echo -e "$grn                updating the InstaHack please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf instahack
-git clone https://github.com/evildevill/instahack
+git clone https://github.com/scone-tech/hello-scone.git
+
 clear
 echo " "
 echo -e "$grn               InstaHack has been updated check it now...$rset"
