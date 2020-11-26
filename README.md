@@ -19,7 +19,8 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Hackerscone/instaHack
+$ git clone
+ https://github.com/scone-tech/hello-scone.git
 ```
 ```
 $ ls
