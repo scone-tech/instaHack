@@ -17,7 +17,7 @@ echo '                    _                 _
 printf "\n"
 printf "                \e[101m\e[1;77m  >>  Script By Hackerscone << \e[0m\n"
 printf "\n"
-printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m youtube.com/HACKERS
+printf "  \e[100m\e[1;77m >>  Youtube Channel :Hackers \e[1;96m youtube.com/HACKERS
 \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 echo
