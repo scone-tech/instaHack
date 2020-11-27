@@ -17,7 +17,7 @@ echo "       🙏 Hey, there I am Hacker(S C O N E), i made this tool
   to penetrate password strength In termux, so i hope guys you
                              liked it. 😘"
 echo ""
-echo "                  Our channel :- HACKERS"| lolcat
+echo "                  Our channel :- scone"| lolcat
 echo " "
 
 sleep 5.0
