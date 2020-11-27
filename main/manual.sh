@@ -15,7 +15,7 @@ echo
  [#] Manual Password Attack [#]
  ' |lolcat
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By HACKERS << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Hackerscone << \e[0m\n"
 printf "\n"
 printf "  \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m youtube.com/HACKERS \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
